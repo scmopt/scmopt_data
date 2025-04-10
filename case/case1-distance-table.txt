@@ -1,0 +1,10 @@
+場所,Capital Lakes,Karmenta,Oakwood West,Oakwood East,Sunny Hill,Attic Angels,St. Mary’s,Oak Park,Belmont
+Capitol Lakes,0,5.2,6.4,8.8,5.6,10.9,8.9,7,5
+Karmenta,5.2,0,15.8,5.5,11.9,17.2,15.2,2.6,0.5
+Oakwood West,6.4,15.8,0,20.9,3.4,3.4,5.4,15.5,14.6
+Oakwood East,8.8,5.5,20.9,0,17.4,22.7,20.7,7,5.5
+Sunny Hill,5.6,11.9,3.4,17.4,0,6,3.9,13,12.1
+Attic Angels,10.9,17.2,3.4,22.7,6,0,6.3,17.9,17
+St. Mary’s,8.9,15.2,5.4,20.7,3.9,6.3,0,15.9,15
+Oak Park,7,2.6,15.5,7,13,17.9,15.9,0,2.9
+Belmont,5,0.5,14.6,5.5,12.1,17,15,2.9,0
